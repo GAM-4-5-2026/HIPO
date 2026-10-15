@@ -1,8 +1,8 @@
 # HIPO
 🦛 
 
-Hipo je zabavna arkadna igra inspirirana klasičnim svemirskim pucačinama, ali s neobičnim i urnebesnim preokretom! 🚀 
-Upravljaj topom koji ispaljuje voće i pokušaj nahraniti ogromnog nilskog konja na vrhu ekrana. 
+Hipo je zabavna igrica inspirirana klasičnim svemirskim pucačinama, ali s malim preokretom! 🚀 
+Upravljaj topom koji ispaljuje voće i pokušaj nahraniti ogromnog HIPO-a na vrhu ekrana. 
 Svaki pogodak čini ga sve većim, sve dok na kraju ne eksplodira i donese ti pobjedu! 💥 Pritom izbjegavaj prepreke, pazi na svoje kretanje i ciljaj što preciznije.
 
 🎮 **Kontrole:**
